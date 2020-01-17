@@ -1,2 +1,4 @@
-
-*.ipynb
+\.ipynb_checkpoints
+results/~$EBDFresults.xlsx
+model/
+npy/
